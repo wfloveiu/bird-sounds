@@ -151,7 +151,7 @@ export default {
 .login {
   height: 100vh;
   /* background: linear-gradient(45deg, #587578, #2f39c4); */
-  background-image: url(../../public/images/bgc3.png);
+  background-image: url(../../public/images/bgc7.png);
   background-repeat: no-repeat;
   /* background-size: 1200px 1000px; */
   /* background-position-x: center; */
